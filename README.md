@@ -32,5 +32,6 @@ Iniciando no mundo da programação/desenvolvedor, estou me preparando para entr
 
 </div>
 <div>
-  https://visitor-badge.glitch.me/badge?page_id=TiagoBlink182.visitor-badge.issue.1
-</div)
+   https://visitor-badge.glitch.me/badge?TiagoBlink182=jwenjian.visitor-badge
+  <img src="https://visitor-badge.glitch.me/badge?TiagoBlink182=page.id" alt="visitor badge"/> 
+</div>
