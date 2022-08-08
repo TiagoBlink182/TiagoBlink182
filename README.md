@@ -33,5 +33,5 @@ Iniciando no mundo da programação/desenvolvedor, estou me preparando para entr
 </div>
 <div>
    https://visitor-badge.glitch.me/badge?TiagoBlink182=jwenjian.visitor-badge
-  <img src="https://visitor-badge.glitch.me/badge?TiagoBlink182=page.id" alt="visitor badge"/> 
+  <img src="https://visitor-badge.glitch.me/badge?TiagoBlink182=https://github.com/TiagoBlink182" alt="visitor badge"/> 
 </div>
