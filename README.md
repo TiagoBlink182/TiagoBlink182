@@ -32,6 +32,5 @@ Iniciando no mundo da programação/desenvolvedor, estou me preparando para entr
 
 </div>
 <div>
-   https://visitor-badge.glitch.me/badge?TiagoBlink182=jwenjian.visitor-badge
-  <img src="https://visitor-badge.glitch.me/badge?TiagoBlink182=https://github.com/TiagoBlink182" alt="visitor badge"/> 
+    ![visitors](https://visitor-badge.glitch.me/badge?TiagoBlink182.https://github.com/TiagoBlink182/TiagoBlink182/blob/1c05076732bf8d10a26b4e4a3daaa7746a56856b/README.md=page.id&left_color=green&right_color=red)
 </div>
