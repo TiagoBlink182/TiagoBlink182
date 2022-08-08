@@ -32,5 +32,5 @@ Iniciando no mundo da programação/desenvolvedor, estou me preparando para entr
 
 </div>
 <div>
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=TiagoBlink182.visitor-badge
+  https://visitor-badge.glitch.me/badge?page_id=TiagoBlink182.visitor-badge.issue.1
 </div)
