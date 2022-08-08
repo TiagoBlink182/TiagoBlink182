@@ -30,7 +30,6 @@ Iniciando no mundo da programação/desenvolvedor, estou me preparando para entr
  
   ![Snake animation](https://github.com/TiagoBlink182/TiagoBlink182/blob/output/github-contribution-grid-snake.svg)
 
-</div>
-<div>
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=TiagoBlink182)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=TiagoBlink182)
+ 
 </div>
