@@ -32,6 +32,6 @@ Iniciando no mundo da programação/desenvolvedor, estou me preparando para entr
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=TiagoBlink182)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=TiagoBlink182)
+ ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=6ey0jpjlaoee41xi9wpgmqh74)
  
 </div>
