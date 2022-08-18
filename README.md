@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do TiagoBlink182 😁
-Iniciando no mundo da programação/desenvolvedor, estou me preparando para entrar no mercado de trabalho em 2023 ! 🚀
+Iniciando no mundo da programação/desenvolvedor Web Front End, estou me preparando para entrar no mercado de trabalho em 2023 ! 🚀
 
  <div>
    <a href="https://github.com/TiagoBlink182">
