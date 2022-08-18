@@ -4,7 +4,7 @@ Iniciando no mundo da programação/desenvolvedor, estou me preparando para entr
  <div>
    <a href="https://github.com/TiagoBlink182">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoBlink182&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-   <img height="10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoBlink182&layout=compact&langs_count=6&theme=algolia"/>
+   <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoBlink182&layout=compact&langs_count=6&theme=algolia"/>
 
 </div>
 <div style="display: inline_block"><br>
