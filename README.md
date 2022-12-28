@@ -1,5 +1,3 @@
-![Capa Gif](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-
 ## Bem-vindo(a) ao perfil do Tiago Bresolin 😁
 Iniciando no mundo da programação/desenvolvedor Web Front End, estou me preparando para entrar no mercado de trabalho em 2023 ! 🚀 Gostaria de aumentar minha rede! Fique a vontade para entrar em contato! 
 
@@ -40,5 +38,7 @@ Starting in the world of programming/Web Front End developer, I'm getting ready 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=TiagoBlink182)
 
  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=6ey0jpjlaoee41xi9wpgmqh74)
- 
+
+ ![Capa Gif](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
 </div>
