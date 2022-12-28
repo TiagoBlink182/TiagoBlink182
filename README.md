@@ -1,6 +1,6 @@
 ![Capa Linkedin](https://user-images.githubusercontent.com/96259803/185450632-e5364cb9-4dec-4a49-b34d-79b57968ecb5.jpg)
 
-![Capa Gif](https://drive.google.com/file/d/1Xc0tkbb7Dpfttsbi-nG1PQ2gg7aph5z3/view?usp=sharing)
+![Capa Gif](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 ## Bem-vindo(a) ao perfil do Tiago Bresolin 😁
 Iniciando no mundo da programação/desenvolvedor Web Front End, estou me preparando para entrar no mercado de trabalho em 2023 ! 🚀 Gostaria de aumentar minha rede! Fique a vontade para entrar em contato! 
