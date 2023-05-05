@@ -35,7 +35,7 @@ Starting in the world of programming/Web Front End developer, I'm getting ready 
  
   ![Snake animation](https://github.com/TiagoBlink182/TiagoBlink182/blob/output/github-contribution-grid-snake.svg)
 
- ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=TiagoBlink182)
+ ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.TiagoBlink182)
 
  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=6ey0jpjlaoee41xi9wpgmqh74)
 
