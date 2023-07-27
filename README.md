@@ -33,7 +33,9 @@ Starting in the world of programming/Web Front End developer, I'm getting ready 
   <a href = "mailto:tiagoblink182@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCdgNFstc2PykTmdtNk0HjOw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  
- ![snake gif](https://github.com/TiagoBlink182/TiagoBlink182/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/TiagoBlink182/TiagoBlink182/blob/output/github-contribution-grid-snake.svg)
+
+Código para o readme, onde `seu_usuario` será o do teu github
 
  ![Visitantes](https://countrush-prod.azurewebsites.net/l/badge/?repository=tiago-bresolin.TiagoBlink182)
 
